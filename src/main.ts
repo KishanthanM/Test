@@ -7,4 +7,6 @@ async function bootstrap() {
 }
 
 //test comments 3
+// test command
+
 bootstrap();
